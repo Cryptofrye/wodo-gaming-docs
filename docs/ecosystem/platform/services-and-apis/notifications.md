@@ -1,0 +1,8 @@
+# Notifications
+
+
+
+Notifications serve an essential function in software and product design. As suggested by [Jakob Nielsen](https://www.nngroup.com/articles/author/jakob-nielsen/)  "T_he system should always keep users informed about what is going on, through appropriate feedback within a reasonable time_”.  The notification services are the foundational building blocks of the platform to keep users - game developers - informed about operations they have initiated or topics they are interested in. Most of the operations are executed in asynchronous patterns in the wodo gaming platform. Game developers subscribed to specific topics and get notified about specific events. This capability enables game developers to build efficient use-cases in their games and implement their codes fluently. Sample use cases:
+
+* Create In-Game Asset as NFT: Developers can send the platform NFT API a request to mint an NFT item. This operation takes time, therefore it occurs in an asynchoronous way. The gaming platform notifies the game when the NFT is generated on the selected blockchain. Game developers implement a code piece that processes the notification and takes follow-up actions in their game code.
+* Subscribe to Games: When a player downloads a game from the game store or directly subscribes to an online game, the player needs to be provisioned and onboarded to the selected game. Game developers need to implement player provisioning logic in their game codes.  In order to handle this business use case, game developers implement a code piece that subscribes to notifications on "new player" topic of the gaming platform. Upon receiving a notification, they can run their code to process new player information.&#x20;
