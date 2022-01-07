@@ -2,9 +2,9 @@
 
 **Contract Address:**&#x20;
 
-TBD
+[0xb2a6DEc1C393f94C3C1d043545175929f80e9292](https://bscscan.com/address/0xb2a6DEc1C393f94C3C1d043545175929f80e9292)
 
-**Ticker:** WGT
+**Ticker:** XWGT
 
 **Decimals:** 18
 
