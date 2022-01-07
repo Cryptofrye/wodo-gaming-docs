@@ -1,6 +1,6 @@
 # Whitepaper
 
-### e**Simplifying  Blockchain, NFT, and Metaverse adoption in The Gaming Ecosystem**
+### **Simplifying  Blockchain, NFT, and Metaverse adoption in The Gaming Ecosystem**
 
 **Abstract**
 
