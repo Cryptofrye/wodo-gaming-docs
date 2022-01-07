@@ -1,6 +1,6 @@
 # Whitepaper
 
-### **Simplifying  Blockchain, NFT, and Metaverse adoption in The Gaming Ecosystem**
+### e**Simplifying  Blockchain, NFT, and Metaverse adoption in The Gaming Ecosystem**
 
 **Abstract**
 
@@ -148,9 +148,12 @@ The gaming platform includes a wide spectrum of other services in order to run a
 
 #### 3.1.2 SDK and Client Libraries
 
-A toolset to make developers' life easier during development. Integrated development environment (IDE) plugins, Tiny, effective libraries that connect to the platform APIs with a few code lines, direct testing capabilities with test nets of blockchains and NFTs.
+Wodo Gaming SDK is a toolset to make game developers' life easier during game development. The SDK resides in development environments and provides game developers with&#x20;
 
-Technique to assist developers in efficiently creating web applications
+* _Integrated development environment (IDE) plugins:_ Game developers can use their favorite development tool (IDE) with the Wodo SDK plugins. It simplifies and accelerates coding practices.
+* _Client Libraries:_ Tiny, effictive client libraries that connect gaming runtime to the wodo platform APIs with a few lines of code.  Game developers embed the client libraries in their preferred platform, such as unity engine, unreal engine or javascript, then get started to implement blockchain and metaverse uses cases in minutes.  &#x20;
+* _Easy Testing:_ Game developers can test their use cases against the mocked platform APIS and test nets of their preferred blockchain network or metaverse platforms prior to production roll-out.
+* _Multi Environment Support:_  The SDK supports multiple run time environments -  mobile, web and virtual reality - as well as multiple game development platforms - Unity Engine, Unreal Engine, JavaScript.
 
 ![](.gitbook/assets/Wodo\_Gaming\_SDK.jpg)
 
