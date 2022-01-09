@@ -1,5 +1,12 @@
 # Table of contents
 
+## language
+
+* [English](https://docs.wodo.io/wodo-gaming/)
+* [Turkce](https://docs.wodo.io/wodo-gaming)
+
+***
+
 * [Intro](README.md)
 * [Vision and Values](vision-and-values.md)
 * [Meet the Team](meet-the-team.md)
