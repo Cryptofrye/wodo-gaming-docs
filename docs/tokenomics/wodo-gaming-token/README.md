@@ -17,7 +17,7 @@ The hard-capped total supply is **1.000.000.000.**
 ### **Token Distribution**
 
 * Play to earn: 20%&#x20;
-* Company reserve: 27%&#x20;
+* Company reserve: 27% **-->** **locked till 01 April 2023**
 * Team: 15%&#x20;
 * Advisors: 2%&#x20;
 * Private sale: 1%&#x20;
