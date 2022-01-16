@@ -18,7 +18,7 @@ The hard-capped total supply is **1.000.000.000.**
 
 * Play to earn: **20%** **-->** **locked till `01 July, 2022`, released over `10` years period**
 * Company reserve: **27%** **-->** **locked till `01 April, 2023`, released over `2` years period**
-* Team: **15%** **-->** **locked till `31 December, 2021`, released over `2` years period**
+* Team: **15%** **-->** **locked till `31 December, 2022`, released over `2` years period**
 * Advisors: 2%&#x20;
 * Private sale: 1%&#x20;
 * IDO: 6%&#x20;
