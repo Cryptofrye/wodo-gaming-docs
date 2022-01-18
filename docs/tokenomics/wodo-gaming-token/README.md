@@ -27,6 +27,8 @@ The hard-capped total supply is **1.000.000.000.**
 * Liquidity pool: 10%&#x20;
 * Airdrop: 1%
 
+![](../../.gitbook/assets/image.png)
+
 ### Token Wallets
 
 | Allocation                                 | Wallet                                                                                                                                                                                                                                                                                                                                 | Lock                                                                                                                                                                                |
