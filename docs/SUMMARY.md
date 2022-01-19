@@ -5,6 +5,7 @@
 * [Meet the Team](meet-the-team.md)
 * [Roadmap](roadmap.md)
 * [Whitepaper](whitepaper.md)
+* [Pitch Deck](pitch-deck.md)
 
 ## TOKENOMICS
 
