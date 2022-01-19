@@ -46,7 +46,7 @@
 * [All social media links](social-media/all-social-media-links.md)
 * [Twitter](https://twitter.com/wodoio)
 * [Telegram](https://t.me/wodoio)
-* [Discord](https://discord.gg/fbyns8Egpb)
+* [Discord](https://discord.gg/qGts9GpGSX)
 * [More...](social-media/more.../README.md)
   * [Medium](https://wodoio.medium.com)
   * [Reddit](https://www.reddit.com/r/wodoio)
