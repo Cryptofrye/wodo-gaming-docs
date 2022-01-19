@@ -4,7 +4,7 @@ You can download the pdf version of our ptich deck at the link below
 
 {% file src=".gitbook/assets/wodo_platform_presentation.pdf" %}
 
-## Intorduction
+## Introduction
 
 ![](.gitbook/assets/Slide1.JPG)
 
