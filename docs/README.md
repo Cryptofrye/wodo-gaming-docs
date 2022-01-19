@@ -7,6 +7,8 @@ coverY: 0
 
 Wodo Gaming is an open-source platform where gamers and game developers come together to develop, publish and play next-generation games enriched with blockchain, NFT, and Metaverse technologies in one interoperable, secure and highly scalable ecosystem. Whether you are a passionate gamer, a freelance game developer, an enterprise gaming company, or Metaverse game designer you can enjoy the novel solutions of Wodo Gaming within an active community.&#x20;
 
+{% embed url="https://www.youtube.com/watch?ab_channel=Wodoio&v=339_rUo_H0U" %}
+
 The metaverse and blockchain technologies unleash a whole new wave of tools, protocols, services that will gradually transform the gaming landscape. Traditional ways of developing, publishing, financing, and playing games will be thoroughly reimagined for a new era where decentralization, democratization, transparency, creativity, interoperability, and community mindset emerge as fundamental pillars.  Wodo Gaming is now building this new disruptive ecosystem for empowering game developers/designers to design, develop, publish, and advertise their games and merchandise unique gaming and Metaverse assets, while the community members keep enjoying the online community games and invest/stake in the platform &#x20;
 
 ![Wodo gaming ecosystem](<.gitbook/assets/Group 124 (1).png>)
