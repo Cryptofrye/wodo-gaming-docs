@@ -1,5 +1,11 @@
 # Whitepaper
 
+You can download the pdf version of the white paper at the link below
+
+{% file src=".gitbook/assets/Wodo_Whitepaper.pdf" %}
+
+{% file src=".gitbook/assets/wodo_platform_presentation.pdf" %}
+
 ### **Simplifying  Blockchain, NFT, and Metaverse adoption in The Gaming Ecosystem**
 
 **Abstract**
