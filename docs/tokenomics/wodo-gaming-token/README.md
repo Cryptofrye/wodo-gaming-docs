@@ -20,8 +20,8 @@ The hard-capped total supply is **1.000.000.000.**
 * Company reserve: **27%** **-->** **locked till `01 April, 2023`, released over `2` years period**
 * Team: **15%** **-->** **locked till `01 February, 2023`, released over `2` years period**
 * Advisors: **2%** **-->** **locked till `01 January, 2023`, released over `2` years period**
-* Private sale: **1%**  **-->** **No lock**
-* Public Sale: **6%**  **-->** **No lock**
+* Private sale: **1%**  **-->** **locked till `01 August, 2023`**
+* Public Sale: **6%**  **-->** **locked till `01 August, 2023`**
 * Exchange Listing: **6%**  **-->** **No lock**
 * Marketing & Social media: **12%** **-->** **locked till `01 April, 2022`, released over `5` years period**
 * Liquidity pool: **10%** **-->** **locked till `01 January, 2023`**
