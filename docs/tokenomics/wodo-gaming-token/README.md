@@ -27,7 +27,7 @@ The hard-capped total supply is **1.000.000.000.**
 * Liquidity pool: **10%** **-->** **locked till `01 January, 2023`**
 * Airdrop: **1%** **-->** **locked till `01 August, 2023`, released over `2` years period**
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/Slide26.JPG)
 
 ### Token Wallets
 
