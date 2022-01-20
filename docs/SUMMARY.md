@@ -27,7 +27,7 @@
   * [Wodo Wallet](ecosystem/platform/wodo-wallet.md)
   * [Metaverse](ecosystem/platform/metaverse/README.md)
     * [Digital Identity](ecosystem/platform/metaverse/digital-identity.md)
-* [Gaming Hub](ecosystem/gaming-hub.md)
+* [Game Hub](ecosystem/gaming-hub.md)
 * [Launchpad](ecosystem/launchpad.md)
 * [Marketplace](ecosystem/marketplace.md)
 * [Game Store](ecosystem/game-store.md)
