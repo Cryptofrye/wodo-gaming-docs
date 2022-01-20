@@ -13,7 +13,7 @@ The metaverse and blockchain technologies unleash a whole new wave of tools, pro
 
 
 
-![Wodo Gaming Ecosystem](.gitbook/assets/wodo\_gaming\_solutions.png)
+![Wodo Gaming Ecosystem](.gitbook/assets/Slide10.JPG)
 
 ### **What's possible with Wodo Gaming?**
 
