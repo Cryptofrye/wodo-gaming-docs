@@ -6,4 +6,10 @@ coverY: -165.3372008701958
 
 # Roadmap
 
+## Milestones
+
+![](.gitbook/assets/Slide18.JPG)
+
+## Roadmap
+
 ![](.gitbook/assets/wodo\_gaming\_roadmap.jpg)
