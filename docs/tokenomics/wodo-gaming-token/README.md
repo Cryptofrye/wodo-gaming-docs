@@ -11,21 +11,23 @@
 **Chain:** Binance Smart Chain (BEP20)
 
 {% hint style="info" %}
-The hard-capped total supply is **1.000.000.000.**
+The hard-capped total supply is **1.000.000.000.** &#x20;
+
+**%87** of tokens are locked and will be released over vesting schedules
 {% endhint %}
 
 ### **Token Distribution**
 
-* Play to earn: **20%** **-->** **locked till `01 August, 2022`, released over `10` years period**
-* Company reserve: **27%** **-->** **locked till `01 April, 2023`, released over `2` years period**
-* Team: **15%** **-->** **locked till `01 February, 2023`, released over `2` years period**
-* Advisors: **2%** **-->** **locked till `01 January, 2023`, released over `2` years period**
+* Play to earn: **20%**&#x20;
+* Company reserve: **27%**&#x20;
+* Team: **15%**&#x20;
+* Advisors: **2%**&#x20;
 * Private sale: **1%** &#x20;
 * Public Sale: **6%** &#x20;
 * Exchange Listing: **6%** &#x20;
-* Marketing & Social media: **12%** **-->** **locked till `01 April, 2022`, released over `5` years period**
-* Liquidity pool: **10%** **-->** **locked till `01 January, 2023`**
-* Airdrop: **1%** **-->** **locked till `01 August, 2023`, released over `2` years period**
+* Marketing & Social media: **12%**&#x20;
+* Liquidity pool: **10%**
+* Airdrop: **1%**&#x20;
 
 ![](../../.gitbook/assets/Slide26.JPG)
 
