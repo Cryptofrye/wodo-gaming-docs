@@ -11,7 +11,7 @@
 **Chain:** Binance Smart Chain (BEP20)
 
 {% hint style="info" %}
-The hard-capped total supply is **1.000.000.000.** &#x20;
+The fixed-capped total supply is **1.000.000.000.** &#x20;
 
 **%87** of tokens are locked and will be released over vesting schedules
 {% endhint %}
