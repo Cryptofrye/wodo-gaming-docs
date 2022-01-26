@@ -18,6 +18,19 @@ The fixed-capped total supply is **1.000.000.000.** &#x20;
 
 ### **Token Distribution**
 
+| Category                  | Allocation | Description                                               |
+| ------------------------- | ---------- | --------------------------------------------------------- |
+| Play to earn:             | **20%**    | Locked, reserved for play to earn rewards distributions   |
+| Company reserve:          | **27%**    | Locked, reserved for company foundation.                  |
+| Team                      | **15%**    | Locked, reserved for the  dev team                        |
+| Strategic                 | **10%**    | %6 TGE, %4 locked for liquidity pools and investments     |
+| Marketing & Social media: | **12%**    | Locked, reserved for marketing plans                      |
+| Airdrop                   | **2%**     | Locked, reserved for bounty events                        |
+| Advisors                  | **1%**     | Locked, reserved for advisors                             |
+| Private Sale              | **1%**     | Locked, %10 freeup at exchange listing, 3 months vesting  |
+| Public Sale               | **6%**     | %20 freeup at exchange listing, 3 months vesting          |
+| Exhange Listing           | **6%**     | Reserved for exchange listing                             |
+
 * Play to earn: **20%**&#x20;
 * Company reserve: **27%**&#x20;
 * Team: **15%**&#x20;
