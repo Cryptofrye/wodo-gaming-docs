@@ -27,7 +27,7 @@ Bekir has been working as a software developer for the last 19 years, started hi
 
 ### Bio&#x20;
 
-Serhat has worked for Nokia for 13 years and moved to another company in recent years after his several Engineering Manager roles. He has been managing international teams delivering complex, high throughput software platforms. He has vast experience in software product development, software architecture, and cloud technologies.
+Serhat has worked for Nokia for 13 years in several leadership. engineering manager roles and moved to another company in recent years after his several Engineering Manager roles. He has been managing international teams delivering complex, high throughput software platforms. He has vast experience in software product development, software architecture, and cloud technologies.
 
 
 
