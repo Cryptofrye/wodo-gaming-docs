@@ -29,17 +29,6 @@ The fixed-capped total supply is **1.000.000.000.** &#x20;
 | Public Sale               | **6%**     | %20 freeup at exchange listing, 3 months vesting          |
 | Exhange Listing           | **6%**     | Reserved for exchange listing                             |
 
-* Play to earn: **20%**&#x20;
-* Company reserve: **27%**&#x20;
-* Team: **15%**&#x20;
-* Advisors: **2%**&#x20;
-* Private sale: **1%** &#x20;
-* Public Sale: **6%** &#x20;
-* Exchange Listing: **6%** &#x20;
-* Marketing & Social media: **12%**&#x20;
-* Liquidity pool: **10%**
-* Airdrop: **1%**&#x20;
-
 ![](../../.gitbook/assets/Slide26.JPG)
 
 ### Allocation Accounts and Vesting Wallets
@@ -53,3 +42,9 @@ The fixed-capped total supply is **1.000.000.000.** &#x20;
 | :woman\_office\_worker: Advisors - %2            | <p><strong>Address:</strong><a href="https://bscscan.com/address/0x7C7aD0674856ef5C9eD4F1F72533D94e86a5388D">0x7C7aD0674856ef5C9eD4F1F72533D94e86a5388D</a><br><strong>Locked Contract:</strong> <a href="https://bscscan.com/address/0x0AB93E51D79C140B9bA2491772cEC66e0a6a3261#code">0x0AB93E51D79C140B9bA2491772cEC66e0a6a3261</a></p> | <p><strong><code>Lock: 12</code></strong><code> Months</code><br><strong>Vesting:</strong> Released over <strong>2</strong> years once the locking is revoked.</p> |
 | :gift: Airdrop - %1                              | <p><strong>Address:</strong><a href="https://bscscan.com/address/0x7C7aD0674856ef5C9eD4F1F72533D94e86a5388D">0x842cb5e69895fbBbe016c95d3b739e0251Ed16C3</a><br><strong>Locked Contract:</strong> <a href="https://bscscan.com/address/0x805d182D8B152b6A741270351671fd7160644e20">0x805d182D8B152b6A741270351671fd7160644e20</a></p>      | <p><strong><code>Lock: 6</code></strong><code>Months</code><br><strong>Vesting:</strong> Released over <strong>2</strong> years once the locking is revoked.</p>   |
 | :8ball: Strategic - %4                           | <p><strong>Address:</strong><a href="https://bscscan.com/address/0x6316BbD6E9Ad41609c81a72F4ee0C5936dbE117b">0x6316BbD6E9Ad41609c81a72F4ee0C5936dbE117b</a><br><strong>Locked Contract:</strong> <a href="https://bscscan.com/address/0xa5Bc4F973Bb1c7202802639854473f765E77023b#code">0xa5Bc4F973Bb1c7202802639854473f765E77023b</a></p> | <p><strong><code>Lock: 12</code></strong><code> Months</code><br><strong>Vesting:</strong> none</p>                                                                |
+
+### Circulated Tokes Timeline
+
+Locked XWGT tokens are released based on a precise vesting schedule in order to protect our investors and keep token valuation steady over the course of time.
+
+![ Circulating Tokens Timline](../../.gitbook/assets/tokenomics\_bar\_chart.png)
