@@ -2,7 +2,7 @@
 
 You can download the pdf version of our pitch deck at the link below
 
-{% file src=".gitbook/assets/wodo_platform_presentation.pdf" %}
+{% file src=".gitbook/assets/Wodo_Pitch_Deck.pdf" %}
 
 {% file src=".gitbook/assets/Wodo_Whitepaper.pdf" %}
 
@@ -71,6 +71,8 @@ You can download the pdf version of our pitch deck at the link below
 ![](.gitbook/assets/Slide25.JPG)
 
 ![](.gitbook/assets/Slide26.JPG)
+
+![](.gitbook/assets/Slide26\_ext.JPG)
 
 ![](.gitbook/assets/Slide27.JPG)
 
