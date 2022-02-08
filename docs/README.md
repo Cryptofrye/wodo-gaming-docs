@@ -17,7 +17,7 @@ The metaverse and blockchain technologies unleash a whole new wave of tools, pro
 
 Wodo Development Kit (SDK) and client libraries simplify integration between gaming projects and the Wodo Gaming APIs, blockchain networks so that game developers can rapidly enrich their games with several use cases such as blockchain payment cases, NFT generation as in-game assets, etc.
 
-![Wodo Software Development Kit (SDK) ](.gitbook/assets/Slide12\_intro.JPG)
+![Wodo Gaming SDK](<.gitbook/assets/wodo\_api\_driven\_design (1).jpg>)
 
 ### **What's possible with Wodo Gaming?**
 
