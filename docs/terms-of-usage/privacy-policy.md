@@ -6,7 +6,7 @@ description: Wodo PRIVACY POLICY
 
 ### 1. Introduction&#x20;
 
-We, as **Wodo Future Technologies Pty. Ltd.** **(Wodo)**, which is a technology company that designs and develops games, help third-party development companies to integrate to our system and publish them on our platform. With this Privacy Policy, we intend to explain our online and offline information practices, the kinds of information we may collect, how we intend to use, process, store, protect, disclose, and share that information, and how you can opt-out of a use or correct or change such information.
+We, as **Wodo**, which is a technology company that designs and develops games, help third-party development companies to integrate to our system and publish them on our platform. With this Privacy Policy, we intend to explain our online and offline information practices, the kinds of information we may collect, how we intend to use, process, store, protect, disclose, and share that information, and how you can opt-out of a use or correct or change such information.
 
 This Privacy Policy applies to websites, mobile applications, forums, and every kind of blogs of Wodo and any other online or offline services provided by Wodo. It also applies to our marketing and advertising activities on all platforms and other services that we may provide to you from time to time. In this Privacy Policy we refer to our games and websites and other services collectively as our “Services”.
 
@@ -20,7 +20,7 @@ Wodo reserves the right to modify this Privacy Policy and your continued use of 
 
 ### 2. The Identity of the Data Controller ,
 
-The data controller is **Wodo Future Technologies Pty. Ltd.**
+The data controller is **Wodo.**
 
 ### 3. How We Collect Your Personal Data&#x20;
 
@@ -30,7 +30,7 @@ We may collect personal data automatically whenever you download or use or Servi
 
 By downloading, accessing and/or playing our games or using our other Services, you consent to the collection of your personal data by Wodo. When you use Services via Platforms, Wodo may collect certain personal data from you and/or your device. Most of this data comes directly from you or your devices, such as your unique device ID (persistent/non-persistent), your device operating system, version, model, CPU, amount of RAM and disk space, hardware type, Identifier For Advertising (IDFA for IOS devices and GAID for Android devices), advertising ID, the version of your operating system ("OS"), your device name, game center ID, and your location based on your Internet Protocol ("IP"). We use this data to provide our games and Services to you, to provide better service to you, to make suggestions, to improve its services, to improve and update our Services, to facilitate the use of Services at the works related to your interest and preferences, including for the purposes of optimization, customizing and in-game offers and verifying purchases, within the framework of legal legislation. We may also use it for the other purposes set out in this Privacy Policy.
 
-Payments for in-app purchases are being carried out by the Platforms. Wodo does not collect personal data such as your name, surname, credit card number and e-mail address that you share with the Platforms for the payment. Wodo does not have access to your credit card or bank account data. However, Platforms may share non-financial payment information for the items your purchase is being shared with us to fulfill your order.
+Payments for in-app purchases are being carried out by the Platforms. Wodo does not collect personal data such as your name, surname, credit card number and e-mail address that you share with the Platforms for the payment. Wodo does not have access to your credit card or bank account data. However, Platforms may share non-financial payment information for the items your purchase is being shared with us to fulfil your order.
 
 If you choose not to create a Wodo profile, the personal data that we collect when you play our games will be anonymous, but we will collect device level identifiers and other information associated with those identifiers including:
 
@@ -48,7 +48,7 @@ We use your personal data, including contact information (e-mail) that you provi
 
 #### User Reviews/Comments&#x20;
 
-From time to time, you may share your comments about our games and provide certain information that may include personal data. All personal data collected from your participation in such reviews is provided by you voluntarily. We may use such personal data to solve issues you encountered, to fulfill your requests, to improve our products, websites and/or Services and in any manner consistent with the policies provided herein.
+From time to time, you may share your comments about our games and provide certain information that may include personal data. All personal data collected from your participation in such reviews is provided by you voluntarily. We may use such personal data to solve issues you encountered, to fulfil your requests, to improve our products, websites and/or Services and in any manner consistent with the policies provided herein.
 
 #### Analytics and Research&#x20;
 
@@ -72,7 +72,7 @@ We may use your data as required or permitted by any applicable law.
 
 #### Visiting Wodo Owned Websites&#x20;
 
-When you visit our website https://wodo.io or https://wodo.network (“Website or Websites”), we collect and process the below-mentioned personal data about you: Any information provided to us when filling out the job application form on our Website, or when you upload a CV and provide additional links.
+When you visit our website https://wodo.io (“Website”), we collect and process the below-mentioned personal data about you: Any information provided to us when filling out the job application form on our Website, or when you upload a CV and provide additional links.
 
 #### 3.2. Personal Data Collected from Third Parties&#x20;
 
@@ -110,7 +110,7 @@ The legal grounds that Wodo relies upon while processing your personal data are 
 * Explicit consent and/or your request&#x20;
 * In cases where it is necessary to disclose such information in accordance with applicable laws or regulations or a court judgment or administrative order issued&#x20;
 * Being necessary for the establishment and execution of an agreement&#x20;
-* Being necessary for Wodo to fulfill its legal obligations as a data controller&#x20;
+* Being necessary for Wodo to fulfil its legal obligations as a data controller&#x20;
 * Being necessary for the establishment, exercise, and protection of any right&#x20;
 * Without prejudice to your fundamental rights and freedoms, being compulsory for Wodo's statutory interests
 
