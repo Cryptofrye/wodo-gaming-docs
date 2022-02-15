@@ -10,6 +10,10 @@
 
 **Chain:** Binance Smart Chain (BEP20)
 
+**Total Supply:** 1.000.000.000 ( 1 billion) fixed.
+
+Wodo Gaming Token (XWGT) is the foundational token used to store value as investment purposes in the wodo gaming ecosystem.
+
 {% hint style="info" %}
 The fixed-capped total supply is **1.000.000.000** (billion) XWGT. **%20** of the total XWGT tokens are reserved for "play to earn" to distribute among Game Hub community members over **10** years. This allocation is locked and released proportionally along with the other distributions.&#x20;
 {% endhint %}
