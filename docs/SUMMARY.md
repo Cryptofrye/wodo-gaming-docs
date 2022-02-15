@@ -11,7 +11,7 @@
 
 * [WODO GAMING TOKEN](tokenomics/wodo-gaming-token/README.md)
   * [Whitelist Requirements](tokenomics/wodo-gaming-token/whitelist-requirements.md)
-  * [Initial Circulating Supply](tokenomics/wodo-gaming-token/initial-circulating-supply.md)
+  * [Audit](tokenomics/wodo-gaming-token/audit.md)
   * [Incentive Programs](tokenomics/wodo-gaming-token/incentive-programs.md)
 
 ## Ecosystem
