@@ -17,13 +17,13 @@ The metaverse and blockchain technologies unleash a whole new wave of tools, pro
 
 ![Wodo Gaming Ecosystem](.gitbook/assets/Slide10.JPG)
 
+**Wodoland** is the first game design and implementation built on top of the wodo gaming platform using the wodo development kit(SDK). It is a multiplayer MMORPG game in which gamers enjoy a sophisticated world, complete scenarios, and quests, compete with each other, trade/exchange in-game assets, and earn cryptocurrencies and NFT items.
+
+![Wodoland Character Creation](.gitbook/assets/wodo\_land.jpg)
+
 Wodo Development Kit (SDK) and client libraries simplify integration between gaming projects and the Wodo Gaming APIs, blockchain networks so that game developers can rapidly enrich their games with several use cases such as blockchain payment cases, NFT generation as in-game assets, etc.
 
 ![Wodo Gaming SDK](<.gitbook/assets/wodo\_api\_driven\_design (1).jpg>)
-
-**Wodoland** is the first game design and implementation built on top of the wodo gaming platform. It is a multiplayer MMORPG game in which gamers enjoy a sophisticated world, complete scenarios, and quests, compete with each other, trade/exchange in-game assets, and earn cryptocurrencies and NFT items.
-
-![](.gitbook/assets/wodo\_land.jpg)
 
 ### **What's possible with Wodo Gaming?**
 
