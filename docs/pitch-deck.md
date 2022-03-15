@@ -18,6 +18,8 @@ You can download the pdf version of our pitch deck at the link below
 
 ![](.gitbook/assets/Slide5.JPG)
 
+![](.gitbook/assets/Slide5.1.JPG)
+
 ![](.gitbook/assets/Slide6.JPG)
 
 ![](.gitbook/assets/Slide7.JPG)
