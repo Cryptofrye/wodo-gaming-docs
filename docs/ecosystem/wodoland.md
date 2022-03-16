@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/wodo\_land.jpg)
 
-The game is fully integrated with the Wodo Game Hub solution. Wodo community members can onboard themselves into the game with "one-click". Wodo gaming platform associates member profiles to the game smartly and allows community members to use their crypto wallets instantaneously.
+The game is fully integrated with the Wodo Game Hub solution. Wodo community members can onboard themselves into the game by "one-click" zero-touch registration. Wodo gaming platform associates member profiles to the game smartly and allows community members to use their crypto wallets instantaneously.
 
 ![](../.gitbook/assets/wodo\_land\_login.png)
 
