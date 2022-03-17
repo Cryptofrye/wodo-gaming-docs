@@ -10,11 +10,11 @@ The game is fully integrated with the Wodo gaming solutions including [the game 
 
 Wodoland is designed based on **play to earn** and **play to collect** concepts. Gamers will be able to form guilds and compete against each other. In-game NFT assets can be traded or exchanged through the in-game marketplace or [Wodo Marketplace](marketplace.md) solution out of the game.
 
+![](../.gitbook/assets/wodo\_land\_login.png)
+
 ![](../.gitbook/assets/wodo\_land.jpg)
 
 ![](<../.gitbook/assets/wodoland\_19 (1).png>)
-
-![](../.gitbook/assets/wodo\_land\_login.png)
 
 ![](../.gitbook/assets/wodo\_land\_view\_1.png)
 
