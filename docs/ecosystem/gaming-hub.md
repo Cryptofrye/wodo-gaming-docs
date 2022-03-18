@@ -18,16 +18,10 @@ Gaming hub fundamentally leverages two new aspects of the crypto-enabled games:
 Click on the images to zoom in
 {% endhint %}
 
-![Game Hub Login Screen](../.gitbook/assets/homepage1.png)
-
-
+![Game Hub Login Screen](../.gitbook/assets/wodo\_game\_hub\_login.jpg)
 
 ![Game Gub Lounges ](../.gitbook/assets/wodo\_game\_hub\_lounges.jpg)
 
-
-
 ![Game Gub Wodoland Lounges](../.gitbook/assets/wodo\_game\_hub\_wodoland\_lounges.jpg)
-
-
 
 ![Wodo Game Hub User Profile](../.gitbook/assets/wodo\_game\_hub\_profile.jpg)
