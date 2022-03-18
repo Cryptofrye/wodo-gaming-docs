@@ -20,6 +20,8 @@ Click on the images to zoom in
 
 ![Game Hub Login Screen](../.gitbook/assets/homepage1.png)
 
+\-----------------------------------------------------------------------------------------------------
+
 ![Game Gub Lounges ](../.gitbook/assets/wodo\_game\_hub\_lounges.jpg)
 
 ![Game Gub Wodoland Lounges](../.gitbook/assets/wodo\_game\_hub\_wodoland\_lounges.jpg)
