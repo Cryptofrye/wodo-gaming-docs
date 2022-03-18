@@ -14,6 +14,14 @@ Gaming hub fundamentally leverages two new aspects of the crypto-enabled games:
 
 **Play-to-collect** is a new concept in NFT-based games. In this modern online gaming, players can collect their in-game assets and trade them within the game's ecosystem. In-game items and products are stored on a distributed public ledger or blockchain running on a crypto network. Players own globally distributed digital assets that aren't limited to gaming purposes.
 
+{% hint style="info" %}
+Click on the images to zoom in
+{% endhint %}
+
 ![Game Hub Login Screen](../.gitbook/assets/homepage1.png)
 
-![](../.gitbook/assets/homepage2.png)
+![Game Gub Lounges ](../.gitbook/assets/wodo\_game\_hub\_lounges.jpg)
+
+![Game Gub Wodoland Lounges](../.gitbook/assets/wodo\_game\_hub\_wodoland\_lounges.jpg)
+
+![Wodo Game Hub User Profile](../.gitbook/assets/wodo\_game\_hub\_profile.jpg)
