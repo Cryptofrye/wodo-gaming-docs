@@ -18,6 +18,8 @@ Wodoland is designed based on **play to earn** and **play to collect** concepts.
 
 ![](../.gitbook/assets/wodo\_land\_view\_1.png)
 
+![](../.gitbook/assets/wodoland\_2.1.png)
+
 ![](<../.gitbook/assets/wodoland\_6 (1).png>)
 
 ![](<../.gitbook/assets/wodoland\_16 (1).png>)
