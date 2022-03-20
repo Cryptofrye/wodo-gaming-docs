@@ -19,10 +19,6 @@ The metaverse and blockchain technologies unleash a whole new wave of tools, pro
 Wodoland Game built on the wodo platform and gaming solutions
 {% endembed %}
 
-{% embed url="https://www.youtube.com/watch?v=1Mrncf8r5Q0" %}
-Wodoland Game built on the wodo platform and gaming solutions
-{% endembed %}
-
 **Wodo Gaming** is now building this new disruptive ecosystem anlutions for empowering game developers/designers to design, develop, publish, and advertise their games and merchandise unique gaming and Metaverse assets, while the community members keep enjoying the online community games and invest/stake in the platform &#x20;
 
 
