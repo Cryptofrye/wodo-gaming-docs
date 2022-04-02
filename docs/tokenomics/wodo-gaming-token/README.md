@@ -29,8 +29,8 @@ The fixed-capped total supply is **1.000.000.000** (billion) XWGT. **%20** of th
 | Marketing & Social media: | **12%**    | Locked, reserved for marketing plans                           |
 | Airdrop                   | **2%**     | Locked, reserved for bounty events                             |
 | Advisors                  | **1%**     | Locked, reserved for advisors                                  |
-| Private Sale              | **1%**     | Locked, %20 freeup at exchange listing, 12 months vesting      |
-| Public Sale               | **6%**     | %10 freeup at exchange listing, 12 months vesting              |
+| Private Sale              | **1%**     | Locked, %20 freeup at exchange listing, 4 months vesting       |
+| Public Sale               | **6%**     | %20 freeup at exchange listing, 4 months vesting               |
 | Exhange Listing           | **6%**     | Reserved for exchange listing                                  |
 
 ![](../../.gitbook/assets/Slide26.JPG)
