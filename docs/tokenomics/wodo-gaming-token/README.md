@@ -2,7 +2,7 @@
 
 **Contract Address:**&#x20;
 
-[0x62D7C4E3566f7f4033fc8e01b4d8e9BBc01c0760](https://bscscan.com/address/0x62D7C4E3566f7f4033fc8e01b4d8e9BBc01c0760#code)
+[0x62D7C4E3566f7f4033fc8e01b4d8e9BBc01c0760](https://bscscan.com/token/0x62D7C4E3566f7f4033fc8e01b4d8e9BBc01c0760)
 
 **Ticker:** XWGT
 
