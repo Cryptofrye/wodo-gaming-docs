@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Intro](README.md)
+* [Coin Marcket Cap](coin-marcket-cap.md)
 * [Vision and Values](vision-and-values.md)
 * [Meet the Team](meet-the-team.md)
 * [Roadmap](roadmap.md)
