@@ -4,13 +4,15 @@ Twitter -> [https://twitter.com/wodoio](https://twitter.com/wodoio)\
 Telegram -> [https://t.me/wodoio](https://t.me/wodoio)\
 Github -> [https://github.com/wodo-platform](https://github.com/wodo-platform)\
 Discord -> [https://discord.gg/fbyns8Egpb](https://discord.gg/fbyns8Egpb)\
+Linkedin -> [https://www.linkedin.com/company/wodonetwork/](https://www.linkedin.com/company/wodonetwork/)\
 Reddit -> [https://www.reddit.com/r/wodoio](https://www.reddit.com/r/wodoio)\
 Medium -> [https://wodoio.medium.com](https://wodoio.medium.com)\
+Youtube -> [https://www.youtube.com/channel/UCTSRFWbzMYY1lpbSXQSH3Nw](https://www.youtube.com/channel/UCTSRFWbzMYY1lpbSXQSH3Nw)\
 Twitch -> [https://www.twitch.tv/wodoio](https://www.twitch.tv/wodoio)\
 Tiktok -> [https://www.tiktok.com/@wodoio](https://www.tiktok.com/@wodoio)\
 Instagram -> [https://www.instagram.com/wodoio](https://www.instagram.com/wodoio)\
 Facebook -> [https://facebook.com/wodoio](https://facebook.com/wodoio)\
-Youtube -> [https://www.youtube.com/channel/UCTSRFWbzMYY1lpbSXQSH3Nw](https://www.youtube.com/channel/UCTSRFWbzMYY1lpbSXQSH3Nw)\
+\
 
 
 Telegram German -> [https://t.me/wodoiogerman](https://t.me/wodoiogerman)\
