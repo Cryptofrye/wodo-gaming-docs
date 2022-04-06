@@ -4,7 +4,7 @@ You can download the pdf version of the white paper at the link below
 
 {% file src=".gitbook/assets/Wodo_Whitepaper.pdf" %}
 
-{% file src=".gitbook/assets/wodo_platform_presentation.pdf" %}
+{% file src=".gitbook/assets/Wodo_Pitch_Deck.pdf" %}
 
 ### **Simplifying  Blockchain, NFT, and Metaverse adoption in The Gaming Ecosystem**
 
@@ -242,7 +242,7 @@ The game server fleet offers dedicated game server capability that enables a rel
 
 ## 4. Conclusion
 
-![](.gitbook/assets/Niwaki\_Icon\_V1-05.png) Each time there has been a new introduction of technology to the games industry, we witness an expansion. Blockchain and Metaverse technologies are at our doorsteps. Blockchain and metaverse technologies transform the gaming ecosystem permanently. Wodo Gaming solutions are designed to make blockchains, NFTs and Metaverse fundamentals easy to use and accessible for game developers and players. Our vision is to accelerate the transformation of the gaming ecosystem to a new era built around Blockchain and Metaverse technologies and to establish a community as a reference point through curating simple, practical, innovative solutions  __ &#x20;
+![](.gitbook/assets/Niwaki\_Icon\_V1-05.png) Each time there has been a new introduction of technology to the gaming industry, we witness an expansion. Blockchain and Metaverse technologies are at our doorsteps. They transform the gaming ecosystem permanently. Wodo Gaming solutions are designed to make blockchains, NFTs and Metaverse fundamentals easy to use and accessible for game developers and players. Our vision is to accelerate the transformation of the gaming ecosystem to a new era built around Blockchain and Metaverse technologies and to establish a community as a reference point through curating simple, practical, innovative solutions  __ &#x20;
 
 ## 5. References
 
