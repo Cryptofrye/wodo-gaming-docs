@@ -51,7 +51,7 @@ The fixed-capped total supply is **1.000.000.000** (billion) XWGT. **%20** of th
 
 Locked XWGT tokens are locked and will be released based on precise vesting schedules in order to protect our investors and keep token valuation steady over the course of time.&#x20;
 
-![](<../../.gitbook/assets/wodo\_token\_timeline (1).jpg>)
+![Token Sles Schedule](<../../.gitbook/assets/wodo\_token\_timeline (1).jpg>)
 
 Blue bars depict the amount of total circulated(unlocked) tokens over quarters and years in the graph below.&#x20;
 
