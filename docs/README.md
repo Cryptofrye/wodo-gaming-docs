@@ -15,6 +15,10 @@ Wodo Gaming is an open-source platform where gamers and game developers come tog
 
 The metaverse and blockchain technologies unleash a whole new wave of tools, protocols, services that will gradually transform the gaming landscape. Traditional ways of developing, publishing, financing, and playing games will be thoroughly reimagined for a new era where decentralization, democratization, transparency, creativity, interoperability, and community mindset emerge as fundamental pillars.&#x20;
 
+{% embed url="https://www.youtube.com/watch?v=QpTORoBwLIs" %}
+**Wodo Land Trailer**
+{% endembed %}
+
 {% embed url="https://youtu.be/uhEOAMg_pew" %}
 Wodoland Game built on the wodo platform and gaming solutions
 {% endembed %}
