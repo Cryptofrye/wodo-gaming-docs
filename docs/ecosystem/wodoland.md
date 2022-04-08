@@ -1,6 +1,6 @@
 # Wodoland
 
-**Wodoland** is the first game design and implementation built on top of the wodo gaming platform. It is a multiplayer MMORPG game in which gamers enjoy a sophisticated world, complete scenarios, and quests, compete with each other, trade/exchange in-game assets, and earn cryptocurrencies and NFT items.
+**Wodoland** is the first game design and implementation built on top of the wodo gaming platform. It is an MMORPG in which gamers enjoy a sophisticated world, complete scenarios, and quests, compete with each other, trade/exchange in-game assets, and earn cryptocurrencies and NFT items.
 
 {% embed url="https://youtu.be/uhEOAMg_pew" %}
 
