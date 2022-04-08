@@ -9,7 +9,7 @@ Wodo Gaming is an open-source platform where gamers and game developers come tog
 
 * ****[**Wodo Platform:**](ecosystem/platform/fundamentals.md) **** services, APIs, and development kits to manage blockchain, NFT, and metaverse capabilities
 * ****[**Wodo Gaming Solutions:**](ecosystem/overview.md) **** Integrated solutions enabling the ecosystem. [Game Hub](ecosystem/gaming-hub.md), Marketplace, Game Store, Launchpad, Game Hosting, Software Development Kits &#x20;
-* ****[**Wodoland Game**](ecosystem/wodoland.md)**:** The first MMORPG game using cryptocurrencies and NFTs that is designed and built on top of the platform capabilities and fully integrated with the wodo gaming solutions**.**
+* ****[**Wodoland Game**](ecosystem/wodoland.md)**:** The first MMORPG using cryptocurrencies and NFTs that is designed and built on top of the platform capabilities and fully integrated with the wodo gaming solutions**.**
 
 {% embed url="https://www.youtube.com/watch?ab_channel=Wodoio&v=339_rUo_H0U" %}
 
