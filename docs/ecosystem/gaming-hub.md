@@ -1,6 +1,6 @@
 # Game Hub
 
-Game Hub is an online social arena where wodo community members - players -  play online Wodo games with other community members and earn instant cryptocurrencies and NFTs while playing. Plenty of games with cryptocurrency and NFT capabilities are hosted on the wodo game servers. Community members can socialize, attend tournaments, play multiplayer wodo games with leaderboards, and discover unlimited opportunities in the gaming ecosystem.&#x20;
+Game Hub is an online social arena where wodo community members - players -  play online Wodo games with other community members and earn instant cryptocurrencies and NFTs while playing. Plenty of games  - developed by Wodo Team with cryptocurrency and NFT capabilities - are hosted on the wodo game servers. Community members can socialize, attend tournaments, play multiplayer wodo games with leaderboards, and discover unlimited opportunities in the gaming ecosystem.&#x20;
 
 {% embed url="https://youtu.be/XlI5Tey1g5M" %}
 Wdodo Game Hub Development Preview

@@ -19,7 +19,9 @@ The metaverse and blockchain technologies unleash a whole new wave of tools, pro
 **Wodoland Trailer**
 {% endembed %}
 
-****[**Wodoland**](ecosystem/wodoland.md) **** is the first game design and implementation built on top of the wodo gaming platform using the wodo development kit(SDK). It is a multiplayer MMORPG game in which gamers enjoy a sophisticated world, complete scenarios, and quests, compete with each other, trade/exchange in-game assets, and earn cryptocurrencies and NFT items.
+{% embed url="https://www.youtube.com/watch?v=XlI5Tey1g5M" %}
+**Game Hub**
+{% endembed %}
 
 **Wodo Gaming** is now building this new disruptive ecosystem and solutions for empowering game developers/designers to design, develop, publish, and advertise their games and merchandise unique gaming and Metaverse assets, while the community members keep enjoying the online community games and invest/stake in the platform &#x20;
 
@@ -27,11 +29,7 @@ The metaverse and blockchain technologies unleash a whole new wave of tools, pro
 
 ![Wodo Gaming Ecosystem](.gitbook/assets/Slide10.JPG)
 
-[Game Hub](ecosystem/gaming-hub.md) is an online social arena where wodo community members - players -  play online Wodo games with other community members, join tournaments,  and earn instant cryptocurrencies and NFTs while playing. Plenty of wodo games - developed by Wodo Team -  are hosted on the wodo game servers. Community members can socialize, attend tournaments, play multiplayer wodo games with leaderboards, and discover unlimited opportunities in the gaming ecosystem.&#x20;
-
-{% embed url="https://www.youtube.com/watch?v=XlI5Tey1g5M" %}
-**Game Hub**
-{% endembed %}
+****[**Wodoland**](ecosystem/wodoland.md) **** is the first game design and implementation built on top of the wodo gaming platform using the wodo development kit(SDK). It is a multiplayer MMORPG game in which gamers enjoy a sophisticated world, complete scenarios, and quests, compete with each other, trade/exchange in-game assets, and earn cryptocurrencies and NFT items.
 
 ![Wodoland Character Creation](.gitbook/assets/wodo\_land.jpg)
 
