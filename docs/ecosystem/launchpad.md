@@ -5,6 +5,8 @@ The conventional fundraising methods are revolutionized with blockchain technolo
 
 Since we have our like-minded community who are familiar with the value created by gaming, it will be a much more efficient platform to explain your product and its groundbreaking features to your target audience.
 
+![Launchpad Ecosystem](../.gitbook/assets/launchpad.jpg)
+
 ### Main features
 
 Launchpad will have the following features:
