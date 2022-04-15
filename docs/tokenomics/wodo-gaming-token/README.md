@@ -12,6 +12,10 @@
 
 **Total Supply:** 1.000.000.000 ( 1 billion) fixed.
 
+**Private Sale**: %1 - done
+
+**Public Sale**: %6 , $0,02 per token.
+
 Wodo Gaming Token (XWGT) is the foundational token used to store value as investment purposes in the wodo gaming ecosystem.
 
 {% hint style="info" %}
