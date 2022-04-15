@@ -15,7 +15,7 @@ coverY: 0
 
 ### Bio
 
-Bekir has been working as a software developer for the last 19 years, started his own web-shop in 2011. He has worked on tens of different projects of various sizes in different industries. He is strongest in product creation since he had several different roles in the product life cycle.
+Bekir has been working as a software developer for the last 19 years, started his own web-shop in 2011. He has worked on tens of different projects of various sizes in different industries. He is strongest in product creation since he had several different roles in the product life cycle. He embraces business agility, lean product development, systems thinking, and growth mindset.
 
 ## Serhat Tanrıkut
 
@@ -27,7 +27,7 @@ Bekir has been working as a software developer for the last 19 years, started hi
 
 ### Bio&#x20;
 
-Serhat has worked for Nokia for 13 years in several leadership, engineering manager roles and moved to another company in recent years to build cloud based products. He has been managing international teams delivering complex, high throughput software platforms. He has vast experience in leadership, software product development, software architecture, and cloud technologies.
+Serhat has been in the software product development business since 2005. He started his career as a software engineer and walked through different positions in international companies. He has worked for Nokia for 13 years in several leadership, engineering manager roles and moved to another international company in recent years to build cloud-based products. He has been managing international teams delivering complex, high throughput software platforms. He has vast experience in leadership, software product development, software architecture, and cloud technologies.
 
 
 
