@@ -29,7 +29,7 @@ The fixed-capped total supply is **1.000.000.000** (billion) XWGT. **%20** of th
 | Play to earn:             | **20%**    | Locked, reserved for play to earn rewards distributions                   |
 | Company reserve:          | **27%**    | Locked, reserved for company foundation.                                  |
 | Team                      | **15%**    | Locked, reserved for the  dev team                                        |
-| Strategic                 | **10%**    | %6 unlocked TGE, %4 locked for liquidity pools and investments            |
+| Strategic                 | **10%**    | %60 unlocked TGE, %40 locked for liquidity pools and investments          |
 | Marketing & Social media: | **12%**    | Locked, reserved for marketing plans                                      |
 | Airdrop                   | **2%**     | Locked, reserved for bounty events                                        |
 | Advisors                  | **1%**     | Locked, reserved for advisors                                             |
