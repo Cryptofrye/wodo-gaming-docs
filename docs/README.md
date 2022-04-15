@@ -29,7 +29,7 @@ The metaverse and blockchain technologies unleash a whole new wave of tools, pro
 
 ![Wodo Gaming Ecosystem](.gitbook/assets/Slide10.JPG)
 
-[**Game Hub**](ecosystem/gaming-hub.md) **** is an online social arena where wodo community members - players -  play online Wodo games with other community members, join tournaments,  and earn instant cryptocurrencies and NFTs while playing. Plenty of wodo games - developed by Wodo Team -  are hosted on the wodo game servers. Community members can socialize, attend tournaments, play multiplayer wodo games with leaderboards, and discover unlimited opportunities in the gaming ecosystem.&#x20;
+[**Game Hub**](ecosystem/gaming-hub.md) **** is an online social arena where wodo community members - players -  play online Wodo games with other community members, join tournaments,  and earn instant cryptocurrencies and NFTs while playing. Plenty of games - developed by Wodo Team and other game developers/companies-  are playable on the wodo game hub. Community members can socialize, attend tournaments, play multiplayer wodo games with leaderboards, and discover unlimited opportunities in the gaming ecosystem.&#x20;
 
 {% embed url="https://www.youtube.com/watch?v=XlI5Tey1g5M" %}
 **Game Hub**
@@ -46,7 +46,7 @@ It has never been that easy for game developers to enrich their games with block
 {% hint style="info" %}
 **1-** :bulb: **Idea** - The game
 
-**2-** :rocket: **Launchpad** - Marketing, crowdsourcing, capitalization within an active community. Game token creation, digital economics.
+**2-** :rocket: **Launchpad** - SDK integration, Wodo solution integration, marketing, crowdsourcing, capitalization within an active community. Game token creation, digital economics.
 
 **3-** :gear: **Development** -  Upon/with the platform APIs, services, tools, kits. Add cryptocurrency economics, collectible NFT capabilities, and metaverse integrations to the game.
 
