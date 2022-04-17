@@ -17,3 +17,9 @@ With respect to the diagram above, game developers do not need to know in detail
 ### API-Driven Design
 
 Platform APIs and services are the primary foundations of the wodo gaming platform.They provide a consistent feature set and unique capabilities to meet game developers' development challenges and technical demands while developers implement their in-game use-cases on the blockchain networks, NFT networks, and metaverse platforms. As the blockchain and metaverse industries advance and look for further growth opportunities, keeping a seamless developer experience is paramount for game development industry.To achive that, the platform offers an extensiable and plugable architecture that allows developers to add new capabilities in a standard way. Platform's API definitions and plugin implementation guides are publicly available for wodo developer comminities.&#x20;
+
+{% hint style="info" %}
+Click on the image to zoom in
+{% endhint %}
+
+![Wodo Platform Architecture](../../.gitbook/assets/Wodo\_Gaming\_Architecture\_with\_Descriptions.jpg)
