@@ -37,4 +37,4 @@ Wodo Gaming Ecosystem is built around **the wodo gaming platform**, **wodo gamin
 Click on the image to zoom in
 {% endhint %}
 
-![Wodo Platfom Highlevel Design](../.gitbook/assets/Wodo\_Gaming\_Architecture\_Design.jpg)
+![Wodo Platfom Highlevel Design](../.gitbook/assets/Wodo\_Gaming\_Highlevel\_Features.jpg)
