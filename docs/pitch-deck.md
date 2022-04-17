@@ -4,7 +4,23 @@ You can download the pdf version of our pitch deck at the link below
 
 {% file src=".gitbook/assets/Wodo_Pitch_Deck.pdf" %}
 
+{% file src=".gitbook/assets/Wodo_Gaming_Intro.pptx" %}
+
 {% file src=".gitbook/assets/Wodo_Whitepaper.pdf" %}
+
+**Demo Links:**
+
+{% embed url="https://www.youtube.com/watch?v=QpTORoBwLIs" %}
+**Wodoland Game Trailer**
+{% endembed %}
+
+{% embed url="https://www.youtube.com/watch?v=XlI5Tey1g5M" %}
+**Wodo Game Hub**
+{% endembed %}
+
+{% embed url="https://www.youtube.com/watch?v=339_rUo_H0U" %}
+**Wodo Ecosystem Intro**
+{% endembed %}
 
 ## Introduction
 
