@@ -33,4 +33,8 @@ Wodo Gaming Ecosystem is built around **the wodo gaming platform**, **wodo gamin
 * Publish and advertise games - _**Game Store**_: Fully featured game store to publish games. APIs for exposing&#x20;
 * Deploy and host games - _**Game Hosting**_:&#x20;
 
+{% hint style="info" %}
+Click on the image to zoom in
+{% endhint %}
+
 ![Wodo Platfom Highlevel Design](../.gitbook/assets/Wodo\_Gaming\_Architecture\_Design.jpg)
