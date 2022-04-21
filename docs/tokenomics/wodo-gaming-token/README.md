@@ -16,6 +16,8 @@
 
 **Public Sale**: %6 , $0,020 per token.
 
+**Listing**: %6, price: TBD
+
 Wodo Gaming Token (XWGT) is the foundational token used to store value as investment purposes in the wodo gaming ecosystem.
 
 {% hint style="info" %}
