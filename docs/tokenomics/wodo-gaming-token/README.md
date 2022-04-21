@@ -12,7 +12,7 @@
 
 **Total Supply:** 1.000.000.000 ( 1 billion) fixed.
 
-**Private Sale**: %1, $0,015 per token - done
+**Private Sale**: %1, $0,015 per token - Completed
 
 **Public Sale**: %6 , $0,020 per token.
 
