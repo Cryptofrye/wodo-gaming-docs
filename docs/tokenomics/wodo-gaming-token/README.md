@@ -12,9 +12,9 @@
 
 **Total Supply:** 1.000.000.000 ( 1 billion) fixed.
 
-**Private Sale**: %1 - done
+**Private Sale**: %1, $0,015 per token - done
 
-**Public Sale**: %6 , $0,02 per token.
+**Public Sale**: %6 , $0,020 per token.
 
 Wodo Gaming Token (XWGT) is the foundational token used to store value as investment purposes in the wodo gaming ecosystem.
 
@@ -24,18 +24,18 @@ The fixed-capped total supply is **1.000.000.000** (billion) XWGT. **%20** of th
 
 ### **Token Distribution**
 
-| Category                  | Allocation | Description                                                               |
-| ------------------------- | ---------- | ------------------------------------------------------------------------- |
-| Play to earn:             | **20%**    | Locked, reserved for play to earn rewards distributions                   |
-| Company reserve:          | **27%**    | Locked, reserved for company foundation.                                  |
-| Team                      | **15%**    | Locked, reserved for the  dev team                                        |
-| Strategic                 | **10%**    | %60 unlocked TGE, %40 locked for liquidity pools and investments          |
-| Marketing & Social media: | **12%**    | Locked, reserved for marketing plans                                      |
-| Airdrop                   | **2%**     | Locked, reserved for bounty events                                        |
-| Advisors                  | **1%**     | Locked, reserved for advisors                                             |
-| **Private Sale**          | **1%**     | Locked, %20 freeup at TGE, 4 months linear vesting at exchange listing,   |
-| **Public Sale**           | **6%**     | Locked, %20 freeup at TGE, 4 months linear vesting at exchange listing,   |
-| **Exhange Listing**       | **6%**     | Reserved for exchange listing                                             |
+| Category                  | Allocation | Description                                                      |
+| ------------------------- | ---------- | ---------------------------------------------------------------- |
+| Play to earn:             | **20%**    | Locked, reserved for play to earn rewards distributions          |
+| Company reserve:          | **27%**    | Locked, reserved for company foundation.                         |
+| Team                      | **15%**    | Locked, reserved for the  dev team                               |
+| Strategic                 | **10%**    | %60 unlocked TGE, %40 locked for liquidity pools and investments |
+| Marketing & Social media: | **12%**    | Locked, reserved for marketing plans                             |
+| Airdrop                   | **2%**     | Locked, reserved for bounty events                               |
+| Advisors                  | **1%**     | Locked, reserved for advisors                                    |
+| **Private Sale**          | **1%**     | Locked, 4 months linear vesting at exchange listing,             |
+| **Public Sale**           | **6%**     | Locked, 4 months linear vesting at exchange listing,             |
+| **Exhange Listing**       | **6%**     | Reserved for exchange listing                                    |
 
 ![](../../.gitbook/assets/Slide26.JPG)
 
@@ -55,7 +55,7 @@ The fixed-capped total supply is **1.000.000.000** (billion) XWGT. **%20** of th
 
 Locked XWGT tokens are locked and will be released based on precise vesting schedules in order to protect our investors and keep token valuation steady over the course of time.&#x20;
 
-![Token Sles Schedule](<../../.gitbook/assets/wodo\_token\_timeline (1).jpg>)
+![Token Sles Schedule](../../.gitbook/assets/wodo\_token\_timeline.jpg)
 
 Blue bars depict the amount of total circulated(unlocked) tokens over quarters and years in the graph below.&#x20;
 
