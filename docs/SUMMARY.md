@@ -64,3 +64,4 @@
 * [Terms of Services](terms-of-usage/terms-of-services.md)
 * [Privacy Note (Applicants)](terms-of-usage/privacy-note-applicants.md)
 * [GDPR](terms-of-usage/gdpr.md)
+* [NFT Licence](terms-of-usage/nft-licence.md)
