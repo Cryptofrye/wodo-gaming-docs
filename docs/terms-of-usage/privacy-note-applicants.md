@@ -1,6 +1,6 @@
 # Privacy Note (Applicants)
 
-This Privacy Policy for Job Application was executed by and between Wodo Future Technologies Pty. Ltd. (“**Wodo**” or "**Company**") as the “_Data Controller_” and you. In this context, the purpose of this Privacy Policy is to provide information on the collection, processing and use of the data provided by you in connection with the use of the contact page of the www.wodo.io website as well as the grade, purpose and scope of transfer thereof.
+This Privacy Policy for Job Application was executed by and between Wodo Teknoloji A.Ş. (“**Wodo**” or "**Company**") as the “_Data Controller_” and you. In this context, the purpose of this Privacy Policy is to provide information on the collection, processing and use of the data provided by you in connection with the use of the contact page of the www.wodo.io website as well as the grade, purpose and scope of transfer thereof.
 
 #### **Identity of the Data Controller**
 
