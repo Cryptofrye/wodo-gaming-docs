@@ -14,7 +14,7 @@
 
 **Private Sale**: %1 - Completed
 
-**Public Sale**: %22 - $0.04 per token.
+**Public Sale**: %2 - $0.04 per token.
 
 **Listing**: %3.
 
