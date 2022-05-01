@@ -71,11 +71,11 @@ Catherine has been a practising lawyer for over 40 years with a particular focus
 
 ### Yelda Uğur
 
-👋  Human resources — :books: yelda@wodo.io - :flag\_tr: Istanbul, **Turkey**(GMT+2
+👋  Human resources — :books: yelda@wodo.io - :flag\_tr: Istanbul, **Turkey**(GMT+2)
 
 ![](.gitbook/assets/yelda.jfif)
 
-#### [https://www.linkedin.com/in/yelda-u%C4%9Fur-%C3%B6ztop/](https://www.linkedin.com/in/yelda-u%C4%9Fur-%C3%B6ztop/)
+{% embed url="https://www.linkedin.com/in/yelda-u%C4%9Fur-%C3%B6ztop" %}
 
 #### Bio
 
