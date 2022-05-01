@@ -91,4 +91,4 @@ Yelda is an experienced HR professional with a broad background in both commerci
 
 #### Bio
 
-Burak has more than 14 years of experience in software development. He&#x20;
+Burak has more than 15 years of experience in software development. He has deep expertise in cloud architecture, cloud technologies and DevOps best practices. He has been designing complex cloud architectures and DevOps systems in different business ecosystems including finance and telecommunications.&#x20;
