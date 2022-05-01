@@ -55,7 +55,7 @@ Catherine has been a practising lawyer for over 40 years with a particular focus
 
 Salih has 14 years of total experience as network and cloud infrastructure engineer. He worked with Cisco, Hp/Aruba, Fortinet, and many other vendors. He has vast knowledge of network designing and implementations of network infrastructure, security technologies, and cloud infrastructures.
 
-## Asst. Prof. Özgür Özmen
+## Özgür Özmen
 
 👋  CMO  — :books: ozgur@wodo.io — :flag\_ro: Bucharest, **Romania** (GMT+2)
 
