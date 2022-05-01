@@ -31,19 +31,17 @@ Bekir has been working as a software developer for the last 19 years, started hi
 
 Serhat has been in the software product development business since 2005. He started his career as a software engineer and walked through different positions in international companies. He has worked for Nokia for 13 years in several leadership, engineering manager roles and moved to another international company in recent years to build cloud-based products. He has been managing international teams delivering complex, high throughput software platforms. He has vast experience in leadership, software product development, software architecture, and cloud technologies.
 
+### Özgür Özmen
 
+👋  CMO  — :books: ozgur@wodo.io — :flag\_ro: Bucharest, **Romania** (GMT+2)
 
-### Catherine McKimm
+![](.gitbook/assets/IMG\_3157.jpg)
 
-👋 Legal Consultant — 💌 catherine@wodo.io — :flag\_au: Sydney, **Australia** (GMT+11)
-
-![](.gitbook/assets/catherine\_mckimm.jpeg)
-
-{% embed url="https://www.linkedin.com/in/catherine-mckimm-443a7141" %}
+{% embed url="https://www.linkedin.com/in/ozgur-ozmen-645bb894" %}
 
 #### Bio
 
-Catherine has been a practising lawyer for over 40 years with a particular focus on commercial law and litigation. Since January 2014 she has been in-house legal counsel for an Australian based educational software development firm with a global clientele. She specializes in service contracts for the delivery of the company’s learning and assessment products and has a wide range of experience in intellectual property and related issues.
+Ozgur worked as a founding assistant professor of international trade departments in several universities of Turkey. His publication record includes many book chapters, articles, proceedings and abstracts of international dimension covering international trade, entrepreneurship, immigration economy & entrepreneurship, EFQM/Total Quality Management and innovation management.
 
 ### Salih Genç
 
@@ -57,19 +55,19 @@ Catherine has been a practising lawyer for over 40 years with a particular focus
 
 Salih has 14 years of total experience as network and cloud infrastructure engineer. He worked with Cisco, Hp/Aruba, Fortinet, and many other vendors. He has vast knowledge of network designing and implementations of network infrastructure, security technologies, and cloud infrastructures.
 
-### Özgür Özmen
+## Consultants
 
-👋  CMO  — :books: ozgur@wodo.io — :flag\_ro: Bucharest, **Romania** (GMT+2)
+### Catherine McKimm
 
-![](.gitbook/assets/IMG\_3157.jpg)
+👋 Legal Consultant — 💌 catherine@wodo.io — :flag\_au: Sydney, **Australia** (GMT+11)
 
-{% embed url="https://www.linkedin.com/in/ozgur-ozmen-645bb894" %}
+![](.gitbook/assets/catherine\_mckimm.jpeg)
+
+{% embed url="https://www.linkedin.com/in/catherine-mckimm-443a7141" %}
 
 #### Bio
 
-He worked as a founding assistant professor of international trade departments in several universities of Turkey. His publication record includes many book chapters, articles, proceedings and abstracts of international dimension covering international trade, entrepreneurship, immigration economy & entrepreneurship, EFQM/Total Quality Management and innovation management.
-
-## Advisors
+Catherine has been a practising lawyer for over 40 years with a particular focus on commercial law and litigation. Since January 2014 she has been in-house legal counsel for an Australian based educational software development firm with a global clientele. She specializes in service contracts for the delivery of the company’s learning and assessment products and has a wide range of experience in intellectual property and related issues.
 
 ### Burak Cansizoglu
 
