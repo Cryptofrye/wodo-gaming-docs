@@ -71,7 +71,7 @@ Catherine has been a practising lawyer for over 40 years with a particular focus
 
 ### Yelda Uğur
 
-👋  Human resources — :books: yelda@wodo.io - :flag\_tr: Istanbul, **Turkey**(GMT+2)
+👋  Human Resources Consultant — :books: yelda@wodo.io - :flag\_tr: Istanbul, **Turkey**(GMT+2)
 
 ![](.gitbook/assets/yelda.jfif)
 
@@ -83,7 +83,7 @@ Yelda is an experienced HR professional with a broad background in both commerci
 
 ### Burak Cansizoglu
 
-👋  Cloud Architecture and DevOps — :books: burak@wodo.io - :flag\_be: Antwerp, **Belgium** (GMT+1)
+👋  Cloud Architecture and DevOps Consultant - :books: burak@wodo.io - :flag\_be: Antwerp, **Belgium** (GMT+1)
 
 ![](.gitbook/assets/burak.jfif)
 
