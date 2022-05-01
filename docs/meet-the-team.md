@@ -5,7 +5,9 @@ coverY: 0
 
 # Meet the Team
 
-## Bekir Dağ
+## Core Team
+
+### Bekir Dağ
 
 👋 CEO - bekir@wodo.io - :flag\_tr: Istanbul, **Turkey** (GMT+3)
 
@@ -13,11 +15,11 @@ coverY: 0
 
 {% embed url="https://www.linkedin.com/in/bekirdag" %}
 
-### Bio
+#### Bio
 
 Bekir has been working as a software developer for the last 19 years, started his own web-shop in 2011. He has worked on tens of different projects of various sizes in different industries. He is strongest in product creation since he had several different roles in the product life cycle. He embraces business agility, lean product development, systems thinking, and growth mindset.
 
-## Serhat Tanrıkut
+### Serhat Tanrıkut
 
 👋 CTO - serhat@wodo.io - :flag\_be: Antwerp, **Belgium** (GMT+1)
 
@@ -25,13 +27,13 @@ Bekir has been working as a software developer for the last 19 years, started hi
 
 {% embed url="https://www.linkedin.com/in/serhattanrikut" %}
 
-### Bio&#x20;
+#### Bio&#x20;
 
 Serhat has been in the software product development business since 2005. He started his career as a software engineer and walked through different positions in international companies. He has worked for Nokia for 13 years in several leadership, engineering manager roles and moved to another international company in recent years to build cloud-based products. He has been managing international teams delivering complex, high throughput software platforms. He has vast experience in leadership, software product development, software architecture, and cloud technologies.
 
 
 
-## Catherine McKimm
+### Catherine McKimm
 
 👋 Legal Consultant — 💌 catherine@wodo.io — :flag\_au: Sydney, **Australia** (GMT+11)
 
@@ -39,11 +41,11 @@ Serhat has been in the software product development business since 2005. He star
 
 {% embed url="https://www.linkedin.com/in/catherine-mckimm-443a7141" %}
 
-### Bio
+#### Bio
 
 Catherine has been a practising lawyer for over 40 years with a particular focus on commercial law and litigation. Since January 2014 she has been in-house legal counsel for an Australian based educational software development firm with a global clientele. She specializes in service contracts for the delivery of the company’s learning and assessment products and has a wide range of experience in intellectual property and related issues.
 
-## Salih Genç
+### Salih Genç
 
 👋 Site Reliability & Cloud Infrastructure — :ninja: salih@wodo.io — :flag\_ch: Geneva, **Switzerland** (GMT+1)
 
@@ -51,11 +53,11 @@ Catherine has been a practising lawyer for over 40 years with a particular focus
 
 {% embed url="https://www.linkedin.com/in/salih-genc" %}
 
-### Bio
+#### Bio
 
 Salih has 14 years of total experience as network and cloud infrastructure engineer. He worked with Cisco, Hp/Aruba, Fortinet, and many other vendors. He has vast knowledge of network designing and implementations of network infrastructure, security technologies, and cloud infrastructures.
 
-## Özgür Özmen
+### Özgür Özmen
 
 👋  CMO  — :books: ozgur@wodo.io — :flag\_ro: Bucharest, **Romania** (GMT+2)
 
@@ -63,6 +65,6 @@ Salih has 14 years of total experience as network and cloud infrastructure engin
 
 {% embed url="https://www.linkedin.com/in/ozgur-ozmen-645bb894" %}
 
-### Bio
+#### Bio
 
 He worked as a founding assistant professor of international trade departments in several universities of Turkey. His publication record includes many book chapters, articles, proceedings and abstracts of international dimension covering international trade, entrepreneurship, immigration economy & entrepreneurship, EFQM/Total Quality Management and innovation management.
