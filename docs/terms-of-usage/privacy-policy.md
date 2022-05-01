@@ -6,7 +6,7 @@ description: Wodo PRIVACY POLICY
 
 ### 1. Introduction&#x20;
 
-We, as **Wodo Future Technologies Pty. Ltd.** **(Wodo)**, which is a technology company that designs and develops games, help third-party development companies to integrate to our system and publish them on our platform. With this Privacy Policy, we intend to explain our online and offline information practices, the kinds of information we may collect, how we intend to use, process, store, protect, disclose, and share that information, and how you can opt-out of a use or correct or change such information.
+We, as **Wodo Teknoloji A.Ş.** **(Wodo)**, which is a technology company that designs and develops games, help third-party development companies to integrate to our system and publish them on our platform. With this Privacy Policy, we intend to explain our online and offline information practices, the kinds of information we may collect, how we intend to use, process, store, protect, disclose, and share that information, and how you can opt-out of a use or correct or change such information.
 
 This Privacy Policy applies to websites, mobile applications, forums, and every kind of blogs of Wodo and any other online or offline services provided by Wodo. It also applies to our marketing and advertising activities on all platforms and other services that we may provide to you from time to time. In this Privacy Policy we refer to our games and websites and other services collectively as our “Services”.
 
@@ -20,7 +20,7 @@ Wodo reserves the right to modify this Privacy Policy and your continued use of 
 
 ### 2. The Identity of the Data Controller ,
 
-The data controller is **Wodo Future Technologies Pty. Ltd.**
+The data controller is **Wodo Teknoloji A.Ş.**
 
 ### 3. How We Collect Your Personal Data&#x20;
 

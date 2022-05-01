@@ -68,3 +68,16 @@ Salih has 14 years of total experience as network and cloud infrastructure engin
 #### Bio
 
 He worked as a founding assistant professor of international trade departments in several universities of Turkey. His publication record includes many book chapters, articles, proceedings and abstracts of international dimension covering international trade, entrepreneurship, immigration economy & entrepreneurship, EFQM/Total Quality Management and innovation management.
+
+## Advisors
+
+### Burak Cansizoglu
+
+👋  Cloud Architecture and DevOps — :books: burak@wodo.io - :flag\_be: Antwerp, **Belgium** (GMT+1)
+
+![](.gitbook/assets/burak.jfif)
+
+{% embed url="https://www.linkedin.com/in/burak-cansizoglu-5a644a50" %}
+
+#### Bio
+
