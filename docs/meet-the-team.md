@@ -57,7 +57,7 @@ Salih has 14 years of total experience as network and cloud infrastructure engin
 
 ## Asst. Prof. Özgür Özmen
 
-👋  Research & Standardization Consultant  — :books: ozgur@wodo.io — :flag\_ro: Bucharest, **Romania** (GMT+2)
+👋  CMO  — :books: ozgur@wodo.io — :flag\_ro: Bucharest, **Romania** (GMT+2)
 
 ![](.gitbook/assets/IMG\_3157.jpg)
 
