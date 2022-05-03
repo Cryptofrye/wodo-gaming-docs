@@ -6,6 +6,7 @@
 * [Roadmap](roadmap.md)
 * [Whitepaper](whitepaper.md)
 * [Pitch Deck](pitch-deck.md)
+* [FAQs](faqs.md)
 
 ## TOKENOMICS
 
