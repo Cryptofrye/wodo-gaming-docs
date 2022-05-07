@@ -41,7 +41,7 @@ Serhat has been in the software product development business since 2005. He star
 
 #### Bio
 
-Ozgur worked as a founding assistant professor of international trade departments in several universities of Turkey. His publication record includes many book chapters, articles, proceedings and abstracts of international dimension covering international trade, entrepreneurship, immigration economy & entrepreneurship, EFQM/Total Quality Management and innovation management.
+Özgür is an experienced entrepreneur with a demonstrated history of working in international trade and marketing. Skilled in Research, Business Planning, Management, Strategic Planning, and Business Development. Strong entrepreneurship professional with a PhD focused in International Trade and Quality Management. 20+ years of combined experience in entrepreneurship and startup industries to craft 360-degree marketing strategy that builds strong brand equity and delivers business objectives. A. Prof. OZMEN shapes the strategy behind the Wodo Network’s marketing strategies, partnerships, user growth and lifecycle management, country expansion, and service diversification.
 
 ### Salih Genç
 
@@ -92,3 +92,4 @@ Yelda is an experienced HR professional with a broad background in both commerci
 #### Bio
 
 Burak has more than 15 years of experience in software development. He has deep expertise in cloud architecture, cloud technologies and DevOps best practices. He has been designing complex cloud architectures and DevOps systems in different business ecosystems including finance and telecommunications.&#x20;
+
