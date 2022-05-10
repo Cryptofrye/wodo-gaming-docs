@@ -15,6 +15,7 @@ Facebook -> [https://facebook.com/wodoio](https://facebook.com/wodoio)\
 \
 
 
+Telegram English -> [https://t.me/wodoio](https://t.me/wodoio)\
 Telegram German -> [https://t.me/wodoiogerman](https://t.me/wodoiogerman)\
 Telegram Italian -> [https://t.me/wodoioitalian](https://t.me/wodoioitalian)\
 Telegram French -> [https://t.me/wodoiofrench](https://t.me/wodoiofrench)\
