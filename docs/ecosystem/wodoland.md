@@ -16,19 +16,29 @@ Wodoland is designed based on **play to earn** and **play to collect** concepts.
 
 {% embed url="https://www.youtube.com/watch?v=1Mrncf8r5Q0" %}
 
-{% embed url="https://www.youtube.com/watch?v=whOzDLc3rl8" %}
-
 ![](../.gitbook/assets/wodo\_land\_login.png)
 
 ![](../.gitbook/assets/wodo\_land.jpg)
 
+![](../.gitbook/assets/wodoland\_screenshot.png)
+
+![](../.gitbook/assets/wodoland\_screenshot\_2.png)
+
+![](../.gitbook/assets/wodoland\_screenshot\_3.png)
+
+![](../.gitbook/assets/wodoland\_screenshot\_4.png)
+
+![](../.gitbook/assets/wodoland\_screenshot\_10.png)
+
+![](../.gitbook/assets/restaurant1.png)
+
+![](../.gitbook/assets/restaurant2.png)
+
+![](../.gitbook/assets/wodoland\_screenshot\_7.png)
+
 ![](<../.gitbook/assets/wodoland\_19 (1).png>)
 
 ![](../.gitbook/assets/wodo\_land\_view\_1.png)
-
-![](../.gitbook/assets/wodoland\_2.1.png)
-
-![](<../.gitbook/assets/wodoland\_6 (1).png>)
 
 ![](<../.gitbook/assets/wodoland\_16 (1).png>)
 
