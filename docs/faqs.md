@@ -4,13 +4,13 @@
 
 Wodo Gaming is a unified gaming ecosystem to develop, publish and play next-generation blockchain, NFT, and metaverse games within an active community. It offers Wodoland MMORPG, end-2-end gaming solutions, and a social arena where gamers and game developers come together to develop, publish and play next-generation games. Wodo Game Hub, Game Store, Marketplace, Launchpad, and Development Kits comprise the Wodo gaming ecosystem. As a passionate gamer, you can enjoy plenty of games, attend tournaments, and earn cryptocurrencies and NFTs on Wodo Game Hub, or you can develop your avatar, live your own destiny, walk on your own path in the open world of Wodoland MMORPG. As a game developer, you can build your blockchain/NFT and metaverse games using Wodo platform capabilities, development kits and introduce your games to the Wodo community.
 
-Official websites :  [https://wodonetwork/](https://wodonetwork)  , [https://wodo.io/](https://wodo.io)
+Official websites :  [https://wodonetwork/](https://wodonetwork/)  , [https://wodo.io/](https://wodo.io/)
 
 Pitch deck: [https://docs.wodo.io/wodo-gaming/pitch-deck](https://docs.wodo.io/wodo-gaming/pitch-deck)
 
 White paper: [https://docs.wodo.io/wodo-gaming/whitepaper](https://docs.wodo.io/wodo-gaming/whitepaper)&#x20;
 
-Documentation: [https://docs.wodo.io/](https://docs.wodo.io)&#x20;
+Documentation: [https://docs.wodo.io/](https://docs.wodo.io/)&#x20;
 
 Github repositories: [https://github.com/wodo-platform](https://github.com/wodo-platform)
 
