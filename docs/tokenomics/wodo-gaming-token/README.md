@@ -1,6 +1,6 @@
 # WODO GAMING TOKEN
 
-**Contract Address:**&#x20;
+&#x20;**Contract Address:**&#x20;
 
 [0x62D7C4E3566f7f4033fc8e01b4d8e9BBc01c0760](https://bscscan.com/token/0x62D7C4E3566f7f4033fc8e01b4d8e9BBc01c0760)
 
@@ -23,6 +23,19 @@ Wodo Gaming Token (XWGT) is the foundational token used to store value for inves
 {% hint style="info" %}
 The fixed-capped total supply is **1.000.000.000** (billion) XWGT. **%20** of the total XWGT tokens are reserved for "play to earn" to distribute among Game Hub community members over **10** years. This allocation is locked and released proportionally along with the other distributions.&#x20;
 {% endhint %}
+
+### Token Utility
+
+* **Primary play to earn token on Wodo Game Hub**\
+  ****Wodo community members use XWGT to play games and attend tourmates. XWGT is promoted as main activity token on the entire ecosystem.
+*   #### Exclusive privileges for games holding XWGT token
+
+    Gamers holding XWGT have privileged access to events, private tournament and specific features of Game Hub, Marketplace. XWGT holders have chance to earn more in play-2-earn and play-2-collect
+*   #### Staking XWGT token for business functionalities
+
+    All functionalities on the platform, marketplace, launchpad, game store requires XWGT token staking as a prerequisite. Partners holding XWGT token benefit from privileged functionality and advanced subscription models.
+
+
 
 ### Allocation Accounts and Vesting Wallets
 
