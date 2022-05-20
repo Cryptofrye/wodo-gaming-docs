@@ -63,8 +63,3 @@ Locked XWGT tokens are locked and will be released based on precise vesting sche
 
 ![Token Sles Schedule](../../.gitbook/assets/wodo\_token\_timeline.jpg)
 
-Blue bars depict the amount of total circulated(unlocked) tokens over quarters and years in the graph below.&#x20;
-
-`Please click on the image to zoom in.`
-
-![ Circulating Tokens Timline](../../.gitbook/assets/tokenomics\_bar\_chart.png)
