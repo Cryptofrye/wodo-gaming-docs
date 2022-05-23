@@ -28,6 +28,8 @@ The fixed-capped total supply is **1.000.000.000** (billion) XWGT. **%20** of th
 
 * **Primary play to earn token on Wodo Game Hub**\
   ****Wodo community members use XWGT to play games and attend tourmates. XWGT is promoted as the main activity token on the entire ecosystem. It creates a continuous demand for the token.
+* **Wodoland in-game token**\
+  Wodoland game promotes XWGT as in-game token for fundamental play-to-earn token and staking. There are variety of scenarios that Wodoland players need to stake and use XWGT token in Wodoland Game.
 *   #### Exclusive privileges for games holding XWGT token
 
     Gamers holding XWGT have privileged access to events, private tournaments and specific features of Game Hub, Marketplace. XWGT holders have chance to earn more in play-2-earn and play-2-collect
