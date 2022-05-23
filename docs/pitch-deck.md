@@ -96,7 +96,7 @@ You can download the pdf version of our pitch deck at the link below
 
 ![](.gitbook/assets/wodo\_token\_timeline.jpg)
 
-![](.gitbook/assets/Slide26\_ext.JPG)
+![](.gitbook/assets/wodo\_token\_utility.jpg)
 
 ![](.gitbook/assets/Slide27.JPG)
 
