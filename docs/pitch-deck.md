@@ -2,7 +2,7 @@
 
 You can download the pdf version of our pitch deck at the link below
 
-{% file src=".gitbook/assets/Wodo_Pitch_Deck.pdf" %}
+{% file src=".gitbook/assets/Wodo_Gaming_Pitch_Deck (1).pdf" %}
 
 {% file src=".gitbook/assets/Wodo_Gaming_Intro.pptx" %}
 
@@ -91,6 +91,8 @@ You can download the pdf version of our pitch deck at the link below
 ![](.gitbook/assets/Slide24.JPG)
 
 ![](.gitbook/assets/Slide25.JPG)
+
+### Tokenomics and Token Utility
 
 ![](.gitbook/assets/Slide26.JPG)
 
