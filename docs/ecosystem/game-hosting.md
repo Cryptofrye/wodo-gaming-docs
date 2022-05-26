@@ -1,6 +1,14 @@
 # Game Hosting
 
-The gaming industry will be decentralized and democratized more and more with the influence of blockchains. This change will lead to more independent game developers and gaming startups building games in the gaming ecosystem. Thus it is a fundamental pillar for game developers to have a smooth game deployment flow and hosting environment that provides global availability, low latency, easy management, elasticity, scalability, and insights with data. To fulfill this gap, we designed the game server fleet. It is a framework for hosting, running, monitoring, and scaling dedicated game servers. All crypto-enabled games, that are available to the wodo community members through the wodo gaming hub, are deployed, hosted, and managed by the game server fleet.&#x20;
+The gaming industry will be decentralized and democratized more and more with the influence of blockchains. This change will lead to more independent game developers and gaming startups building games in the gaming ecosystem.&#x20;
+
+Wodo Gaming Solutions are designed to increase access to active blockchain gaming communities for independent game developers and gaming startups.
+
+To fulfill existing gaps in the market, Wodo has designed the game server fleet. It is a framework for hosting, running, monitoring, and scaling dedicated game servers. All crypto-enabled games are available to Wodo community members through the Wodo Gaming Hub. Games are deployed, hosted, and managed by the game server fleet.
+
+Wodo believes it is essential for game developers to have a smooth game deployment flow and have designed an overarching SaaS platform that facilitates interoperable access to game design and construction in the Wodo gaming ecosystem
+
+Additionally, Wodo are actively creating a dynamic hosting environment centered on global availability, low latency, easy management, elasticity, scalability, and data driven analytics.
 
 ![](../.gitbook/assets/wodo\_game\_server\_fleet.jpg)
 
