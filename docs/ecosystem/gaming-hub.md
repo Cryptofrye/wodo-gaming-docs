@@ -20,7 +20,7 @@ Game Hub is tightly integrated with Wodo Gaming's Game Store and Marketplace. It
 Click on the images to zoom in
 {% endhint %}
 
-![Game Hub Login Screen](../.gitbook/assets/wodo\_game\_hub\_login.jpg)
+![Game Hub Login Screen](../.gitbook/assets/bunny\_signin.jpg)
 
 ![Game Gub Lounges ](../.gitbook/assets/wodo\_game\_hub\_lounges.jpg)
 
